@@ -1,0 +1,28 @@
+*{margin: 0; padding: 0;}
+
+body{
+    background: #ffe8b6;
+}
+
+.fila_head{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 200%;
+    font-style: italic;
+    font-variant: small-caps;
+    color: #ff0000;
+}
+
+table{
+    border-collapse: collapse;
+    background-color: #faf1ab;
+    border: 5px dotted #1206fa;
+    border-bottom-style: dashed;
+    border-bottom-color: #b17205;
+}
+
+td{
+    border: 5px dotted #fb03d6;
+}
+
+/*aplique un % diferente a los 2 td de descripción
+ y agregar una descripción que ocupe una columna*/
